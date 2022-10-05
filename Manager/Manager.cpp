@@ -199,7 +199,12 @@ int main(int argc, char* argv[])
         "AvastUI.exe",
         "aswToolsSvc.exe",
         "aswEngSrv.exe",
+
+
+
+
         "aswidsagent.exe"
+
 
 /* VIPRE Advanced Ac*/
 
