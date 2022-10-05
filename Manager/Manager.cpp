@@ -200,7 +200,7 @@ int main(int argc, char* argv[])
         "aswToolsSvc.exe",
         "aswEngSrv.exe",
         "aswidsagent.exe",
-        "rufus-3.18.exe"
+        
 /* VIPRE Advanced Ac*/
 
     };
